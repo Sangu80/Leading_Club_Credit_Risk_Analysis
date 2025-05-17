@@ -50,11 +50,6 @@ This project presents a complete end-to-end solution for predicting **loan defau
   * True Negative (approved good loan): **+\$300**
   * False Negative (approved bad loan): **–\$1000**
 * Identified the **optimal score threshold** that maximizes expected profit.
-* Achieved optimal threshold with:
-
-  * **Approval Rate**: \~XX%
-  * **Bad Loan Rate in Approvals**: \~YY%
-  * **Maximized Net Profit**
 
 #### ✅ Model Explainability
 
